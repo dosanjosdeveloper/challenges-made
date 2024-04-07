@@ -1,2 +1,2 @@
-# challenges-made
-Aqui temos os exercicos práticos fazendo uma proposta de auto desafio
+# Challenges Made
+Abaixo termos nomes e pachs dos desafios encontrado na internet e provas de professores sobre desenvolvimento de programação.
