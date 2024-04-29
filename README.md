@@ -1,2 +1,2 @@
 # Challenges Made
-Abaixo temos nomes e paths dos desafios encontrado na internet e provas de professores sobre desenvolvimento praticando a programação.
+Below we have names and paths of the challenges found on the internet and tests from teachers on development by practicing programming.
